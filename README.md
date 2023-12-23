@@ -34,4 +34,5 @@ mutation.
 
 * Develop some sprite for the cars.
 * Define a better fitness function.
+* Multithreading to get best performance.
 * Do NN Tuning.
