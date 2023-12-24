@@ -1,4 +1,4 @@
-# Self-driving cars
+# 🚗 Self-driving cars
 
 This project was made as learning neural networks and genetic algorithms with 
 professor [Radu Mariescu-Istodor](https://radufromfinland.com/) in his free
@@ -9,7 +9,7 @@ This consists as a learning approach algorithm to simulated self-driving cars.
 Using genetic algorithms, we can set a fitness function to determine if the 
 neural network weights are good or not, and then evolve this each generation.
 
-# Topics learned with the project
+# Topics approached
 
 * Car mechanics
 * Road creation and definition
